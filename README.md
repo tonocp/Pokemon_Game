@@ -1,24 +1,5 @@
-# 04-pokemon-game
+# Pokemon Game
 
-## Project setup
-```
-npm install
-```
+This is the GitHub repository for this simple Pokemon Game to learn more about [Vue.js](https://vuejs.org/), it's lifecycle hooks, handling props, etc...
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Right now it's still on development
